@@ -1,3 +1,5 @@
+*Add angular and other projects
+
 This is a microservice application, using the following technologies
 
 Back-End:
